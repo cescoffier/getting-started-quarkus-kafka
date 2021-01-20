@@ -3,7 +3,7 @@
 This project demonstrates how to build a Quarkus application using Apache Kafka in less than 10 minutes.
 It uses Reactive Messaging to simplify the interaction with Kafka.
 
-## Start the broken
+## Start the broker
 
 You would need a Kafka broker.
 Start one using:
